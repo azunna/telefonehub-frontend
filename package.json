@@ -1,6 +1,6 @@
 {
   "name": "@telephonyhub/frontend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TelephonyHub React Frontend Application",
   "private": true,
   "dependencies": {
