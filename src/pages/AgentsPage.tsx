@@ -250,9 +250,13 @@ const AgentsPage: React.FC = () => {
             rows={agents?.data || []}
             columns={columns}
             loading={isLoading}
-            pageSize={25}
-            rowsPerPageOptions={[25, 50, 100]}
-            disableSelectionOnClick
+            initialState={{
+              pagination: {
+                paginationModel: { pageSize: 25 },
+              },
+            }}
+            pageSizeOptions={[25, 50, 100]}
+            disableRowSelectionOnClick
             autoHeight
             sx={{ border: 0 }}
           />
