@@ -14,6 +14,7 @@ export interface User {
   avatar?: string;
   role?: 'admin' | 'manager' | 'agent' | 'viewer';
   status?: 'active' | 'inactive' | 'suspended';
+  organizationId?: string;
   profile?: UserProfile;
   isOnline?: boolean;
   lastSeen?: Date;
