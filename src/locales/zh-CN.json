@@ -1,0 +1,41 @@
+{
+  "common": {
+    "welcome": "欢迎",
+    "start": "开始",
+    "stop": "停止",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "search": "搜索",
+    "filter": "筛选",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  },
+  "calls": {
+    "makeCall": "拨打电话",
+    "answerCall": "接听电话",
+    "endCall": "结束通话",
+    "callHistory": "通话记录",
+    "startVideoCall": "开始视频通话"
+  },
+  "sms": {
+    "title": "消息",
+    "searchConversations": "搜索对话...",
+    "selectConversation": "选择一个对话",
+    "typeMessage": "输入消息...",
+    "all": "全部",
+    "unread": "未读",
+    "starred": "已收藏",
+    "sendMessage": "发送消息"
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "activeCalls": "活跃通话",
+    "today": "今天",
+    "thisWeek": "本周",
+    "thisMonth": "本月"
+  }
+}
+

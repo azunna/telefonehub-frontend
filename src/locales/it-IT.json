@@ -1,0 +1,41 @@
+{
+  "common": {
+    "welcome": "Benvenuto",
+    "start": "Inizia",
+    "stop": "Ferma",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "search": "Cerca",
+    "filter": "Filtra",
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "success": "Successo"
+  },
+  "calls": {
+    "makeCall": "Fare una chiamata",
+    "answerCall": "Rispondere alla chiamata",
+    "endCall": "Termina chiamata",
+    "callHistory": "Cronologia chiamate",
+    "startVideoCall": "Avvia videochiamata"
+  },
+  "sms": {
+    "title": "Messaggi",
+    "searchConversations": "Cerca conversazioni...",
+    "selectConversation": "Seleziona una conversazione",
+    "typeMessage": "Scrivi un messaggio...",
+    "all": "Tutti",
+    "unread": "Non letti",
+    "starred": "Preferiti",
+    "sendMessage": "Invia messaggio"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "activeCalls": "Chiamate attive",
+    "today": "Oggi",
+    "thisWeek": "Questa settimana",
+    "thisMonth": "Questo mese"
+  }
+}
+

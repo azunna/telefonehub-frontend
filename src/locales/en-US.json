@@ -1,0 +1,41 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "start": "Start",
+    "stop": "Stop",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "calls": {
+    "makeCall": "Make Call",
+    "answerCall": "Answer Call",
+    "endCall": "End Call",
+    "callHistory": "Call History",
+    "startVideoCall": "Start Video Call"
+  },
+  "sms": {
+    "title": "Messages",
+    "searchConversations": "Search conversations...",
+    "selectConversation": "Select a conversation",
+    "typeMessage": "Type a message...",
+    "all": "All",
+    "unread": "Unread",
+    "starred": "Starred",
+    "sendMessage": "Send Message"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "activeCalls": "Active Calls",
+    "today": "Today",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month"
+  }
+}
+
