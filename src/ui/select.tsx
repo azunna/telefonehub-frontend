@@ -50,15 +50,7 @@ export const Select: React.FC<SelectProps> = ({
 
   return (
     <div className={`relative ${className}`}>
-      {React.Children.map(children, child => {
-        if (React.isValidElement(child)) {
-          return React.cloneElement(child, { 
-            value: currentValue, 
-            onValueChange: handleValueChange 
-          });
-        }
-        return child;
-      })}
+      {children}
     </div>
   );
 };
