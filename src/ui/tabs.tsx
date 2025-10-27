@@ -48,9 +48,9 @@ export const Tabs: React.FC<TabsProps> = ({
     <div className={`w-full ${className}`}>
       {React.Children.map(children, child => {
         if (React.isValidElement(child)) {
-          return React.cloneElement(child, { 
-            activeTab: currentValue, 
-            setActiveTab: handleValueChange 
+          return React.cloneElement(child as React.ReactElement<any>, { 
+            value: currentValue, 
+            onValueChange: handleValueChange 
           });
         }
         return child;
