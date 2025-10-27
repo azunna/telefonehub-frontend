@@ -17,7 +17,8 @@ import {
   Send,
   CheckCircle,
   AlertCircle,
-  Info
+  Info,
+  Code
 } from 'lucide-react';
 
 const SupportCenter = () => {
